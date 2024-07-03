@@ -1,0 +1,47 @@
+{
+"members":[
+    { 
+        "role":"CEO",
+        "name":"Patrick",
+        "desc":" Hi I'm the CEO ! We are happy to serve you",
+        "lien":"https://img.freepik.com/photos-gratuite/homme-affaires-prospere-garde-mains-croisees-expression-satisfaite_273609-16711.jpg?size=626&ext=jpg&ga=GA1.1.347349682.1647986912&semt=ais"
+
+    },
+    { 
+        "role":"CEE",
+        "name":"Asmae",
+        "desc":" Hi I'm the CEE ! Welcome to our team",
+        "lien":"https://img.freepik.com/photos-gratuite/portrait-jolie-femme-musulmane-africaine-hijab-noir_651396-1755.jpg?size=626&ext=jpg&ga=GA1.1.347349682.1647986912&semt=ais"
+
+    },
+    
+    { 
+        "role":"Designer",
+        "name":"Emilie",
+        "desc":" Hi I'm the Designer of the team",
+        "lien":"https://img.freepik.com/photos-gratuite/vue-face-femme-posant-belles-fleurs_23-2150506615.jpg?size=626&ext=jpg&ga=GA1.1.347349682.1647986912&semt=ais"
+
+    },
+    { 
+        "role":"Doctor",
+        "name":"Pierre",
+        "desc":" Hi I'm the doctor ! your eyes wellbeing is my main priority ",
+        "lien":"https://img.freepik.com/photos-gratuite/portrait-homme-afro-americain_23-2149072179.jpg?size=626&ext=jpg&ga=GA1.1.347349682.1647986912&semt=ais"
+
+    },
+    { 
+        "role":"Assistant",
+        "name":"Fatima",
+        "desc":" Hi I'm the assistant ! ",
+        "lien":"https://img.freepik.com/photos-gratuite/vue-laterale-femme-musulmane-posant-exterieur_23-2150506608.jpg?size=626&ext=jpg&ga=GA1.1.347349682.1647986912&semt=ais"
+
+    },
+    { 
+        "role":"counselor",
+        "name":"Khadija",
+        "desc":" Hi I'm the counselor !",
+        "lien":"https://img.freepik.com/photos-gratuite/serieux-femme-musulmane-dans-lunettes-poser-dehors_74855-1600.jpg?size=626&ext=jpg&ga=GA1.2.347349682.1647986912&semt=ais"
+
+    }
+]
+}
